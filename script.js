@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const pageLinkMap = {
         "homepage.html": "home-link",
         "project.html": "project-link",
-        "interest.html": "interest-link",
         "socials.html": "socials-link"
     };
 
